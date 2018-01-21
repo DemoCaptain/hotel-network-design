@@ -1,14 +1,14 @@
-## hotel network design
+# hotel network design
 
 某酒店网络工程设计
 ![总拓扑图](images/某酒店总拓扑图.png)
 
 ### 技术支持
 
-*VLAN 虚拟局域网
-*OSPF 开放式最短路径优先内部网关协议
-*ACL 访问控制列表
-*NAT 网络地址转换
+* VLAN 虚拟局域网
+* OSPF 开放式最短路径优先内部网关协议
+* ACL 访问控制列表
+* NAT 网络地址转换
 
 ### 结构
 
@@ -31,6 +31,8 @@
 # show ip route
 ```
 * 检查网络通畅
-` ping ip地址
+```
+ping ip地址
+```
 
 更多信息请参考《某酒店网络工程课程设计报告》
